@@ -1,6 +1,6 @@
 #######
 #
-# Data Management Guide, https://github.com/uidaholib/data-management-guide
+# ECE Research Paper Guide (engr_stu_site)
 #
 # built using:
 # Just the Docs theme, https://github.com/pmarsceill/just-the-docs
@@ -12,15 +12,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: U of I Library Data Management Guide
-description: The University of Idaho Library strives to help researchers at the University of Idaho become familiar with data management practices. Library faculty endeavor to communicate information about data storage standards and protocols, metadata reporting requirements and best practices, and the requirements and recommendations of national funding bodies and/or professional associations.
-baseurl: /services/data/data-management # the subpath of your site, e.g. /blog
+title: Library Use for ECE Students
+description: A guide to help University of Idaho ECE students navigate library resources for IEEE-format research papers.
+baseurl: /PLACEHOLDER # the subpath of your site, e.g. /blog
 url: "https://www.lib.uidaho.edu" # the base hostname & protocol for your site, e.g. http://example.com
 # directory for library media assets
 lib-media: https://www.lib.uidaho.edu/media
 
 permalink: pretty
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md", "Rakefile"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md", "Rakefile", "vendor"]
 
 # set noindex to true if you do NOT want Google to index your site
 #noindex: true
@@ -60,8 +60,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "U of I Library Data Services":
-    - "https://www.lib.uidaho.edu/services/data/"
+  "U of I Library":
+    - "https://www.lib.uidaho.edu/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -86,7 +86,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: false # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/uidaholib/data-management-guide" # the github URL for your repo
+gh_edit_repository: "https://github.com/uidaholib/PLACEHOLDER" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
@@ -120,10 +120,6 @@ compress_html:
   ignore:
     envs: development
 
-# Glossary collection
-collections: 
-  glossary:
-    sort_by: title
 
 # compress CSS output
 sass:
