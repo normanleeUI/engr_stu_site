@@ -170,20 +170,28 @@ Copy the entire vendored theme infrastructure from data-management-guide (`_incl
 
 **Exit criteria:** `bundle exec jekyll serve` runs without errors. All nav links work (4 sections, 3 children each, homepage, contact). Branding matches the data-management-guide (same theme files, same color scheme). Every page has a heading and placeholder sentence — no blank pages.
 
+**Note:** All site content must adhere to the style guidelines described in the [U of I Library Style Guide](https://www.lib.uidaho.edu/docs/) (and its relevant linked sub-pages) as well as the content conventions documented in the [data-management-guide README](https://github.com/uidaholib/data-management-guide#readme) (one sentence per line, blank lines between elements, logical header order, H1 at page top, code in backticks, filenames in quotes).
+
 ### Phase 2 — Core content (Sections 1–3)
 Write real content for Sections 1 (Finding Scholarly Sources), 2 (Citation Integrity), and 3 (Writing in IEEE Format). These sections have well-defined content and links from the initial communications. Flag all external links for proxy URL review.
 
 **Exit criteria:** Sections 1–3 have complete content. All external links have been reviewed for proxy applicability. Cross-links between sections are in place.
+
+**Note:** All site content must adhere to the style guidelines described in the [U of I Library Style Guide](https://www.lib.uidaho.edu/docs/) (and its relevant linked sub-pages) as well as the content conventions documented in the [data-management-guide README](https://github.com/uidaholib/data-management-guide#readme) (one sentence per line, blank lines between elements, logical header order, H1 at page top, code in backticks, filenames in quotes).
 
 ### Phase 3 — AI content (Section 4) + Contact
 Write content for Section 4 (AI in Research), including the placeholder structures for future video/interactive content. Create the contact/help page. Add multimedia placeholder callouts to all section index pages.
 
 **Exit criteria:** All 4 sections have real content. Placeholder callouts are visible on all section index pages. Contact page is complete.
 
+**Note:** All site content must adhere to the style guidelines described in the [U of I Library Style Guide](https://www.lib.uidaho.edu/docs/) (and its relevant linked sub-pages) as well as the content conventions documented in the [data-management-guide README](https://github.com/uidaholib/data-management-guide#readme) (one sentence per line, blank lines between elements, logical header order, H1 at page top, code in backticks, filenames in quotes).
+
 ### Phase 4 — Review and launch
 Professor reviews the complete site. Address feedback. Final verification pass (all links, navigation, branding, accessibility baseline). Hand off to deployment team.
 
 **Exit criteria:** Professor has approved. All verification checks in §8 pass.
+
+**Note:** All site content must adhere to the style guidelines described in the [U of I Library Style Guide](https://www.lib.uidaho.edu/docs/) (and its relevant linked sub-pages) as well as the content conventions documented in the [data-management-guide README](https://github.com/uidaholib/data-management-guide#readme) (one sentence per line, blank lines between elements, logical header order, H1 at page top, code in backticks, filenames in quotes).
 
 ## 11. Directory structure
 
