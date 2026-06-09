@@ -6,4 +6,5 @@ nav_order: 3
 
 # Writing in IEEE Format
 
-This section covers IEEE formatting requirements, paper structure, and citation practices.
+**IEEE format** is the standard document style used by the Institute of Electrical and Electronics Engineers for conference and journal papers — and it's the format your two-page paper assignment requires.
+This section walks you through choosing and using an IEEE template, organizing your paper's sections, and formatting your references correctly.
