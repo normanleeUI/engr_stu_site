@@ -80,7 +80,8 @@ Look for these indicators:
 - **Editorial board** — A legitimate journal lists its editors and editorial board members, who are typically established researchers with university or institutional affiliations.
 - **Submission guidelines** — Reputable journals publish detailed instructions for authors that describe the review process, expected timelines, and manuscript formatting requirements.
 - **Review process description** — Look for language like "double-blind peer review" or "single-blind review," which describes how the journal evaluates submissions.
-- **Indexing information** — Journals often note which databases index them (e.g., Web of Science, Scopus, IEEE Xplore). Being indexed in these databases is a positive quality signal.
+- **Indexing information** — Journals often note which databases index them (e.g., Web of Science, Scopus, IEEE Xplore).
+Being indexed in these databases is a positive quality signal.
 
 If a journal's website is vague about its review process, lists no recognizable editorial board members, or prominently advertises rapid publication with guaranteed acceptance, treat it as a red flag.
 These are common characteristics of predatory journals.

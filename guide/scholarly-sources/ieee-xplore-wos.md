@@ -93,8 +93,10 @@ Here's what to look at when scanning a results list:
 
 - **Title** — Does it sound relevant to your specific topic?
 - **Authors and affiliation** — Are the authors at universities or research institutions?
-- **Publication name** — Is it a recognized journal or conference? Names like *IEEE Transactions on...* or *Proceedings of the IEEE* signal high-quality venues.
-- **Year** — Is the research recent enough to be relevant? For most ECE topics, work from the last ten years is a reasonable window, though seminal older papers are also valuable.
+- **Publication name** — Is it a recognized journal or conference?
+Names like *IEEE Transactions on...* or *Proceedings of the IEEE* signal high-quality venues.
+- **Year** — Is the research recent enough to be relevant?
+For most ECE topics, work from the last ten years is a reasonable window, though seminal older papers are also valuable.
 - **Abstract** — Click through to read the abstract before downloading the full article.
 The abstract tells you the paper's main contribution in one paragraph, which helps you decide whether the full text is worth your time.
 
