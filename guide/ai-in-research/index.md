@@ -6,4 +6,5 @@ nav_order: 4
 
 # AI in Research
 
-This section covers how to use AI tools ethically and effectively in academic research.
+AI tools like ChatGPT and Perplexity can help you explore a research topic quickly, but they can also produce citations that look real and turn out to be completely fabricated.
+This section helps you understand what different AI tools actually do when they search for sources, how to tell appropriate from inappropriate AI use in your coursework, and what IEEE and U of I policies say about AI-generated content.
