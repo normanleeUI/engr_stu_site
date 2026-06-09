@@ -69,7 +69,7 @@ You can paste a sentence or paragraph you've written and ask for suggestions on 
 The key is that *you* wrote the original text and *you* decide whether to accept the suggestion.
 
 To access Gemini, sign in with your University of Idaho Google account (your `@uidaho.edu` email).
-The university's [AI resources page](https://www.uidaho.edu/provost/digital-learning/ai-strategy) has details on what's available and any usage guidelines.
+The university's [AI resources page](https://ai.uidaho.edu/) has details on what's available and any usage guidelines.
 
 ## Using AI Tools Responsibly
 
@@ -100,6 +100,6 @@ What's acceptable today may be more restricted — or more permissive — by the
 
 - [**IEEE Author Policy on AI-Generated Content**](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/) - IEEE's official policy on the use of AI tools in preparing manuscripts, including disclosure requirements
 
-- [**U of I AI Strategy & Resources**](https://www.uidaho.edu/provost/digital-learning/ai-strategy) - The university's page on AI initiatives, including information about Google AI tools available to students
+- [**U of I AI Resources**](https://ai.uidaho.edu/) - The university's hub for AI initiatives, including information about Google AI tools available to students
 
 - [**U of I Academic Integrity Policy**](https://www.uidaho.edu/student-affairs/dean-of-students/student-conduct/academic-integrity) - The university's official standards on academic honesty, relevant to any use of AI in coursework
