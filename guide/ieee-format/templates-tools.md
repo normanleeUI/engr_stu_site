@@ -1,10 +1,10 @@
 ---
-title: IEEE Templates & Tools
+title: IEEE Templates and Tools
 parent: Writing in IEEE Format
 nav_order: 1
 ---
 
-# IEEE Templates & Tools
+# IEEE Templates and Tools
 
 The fastest way to get your two-page IEEE-format paper looking right is to start with an official template.
 IEEE provides free, pre-formatted templates that set up margins, column widths, font sizes, heading styles, and reference formatting for you — so you can focus on writing your content rather than wrestling with layout settings.
@@ -108,6 +108,8 @@ If something looks off, check that you're using the template's styles rather tha
 
 ## Further Resources
 
-- [**IEEE Author Center**](https://ieeeauthorcenter.ieee.org/) — official hub for templates, submission guidelines, and author tools
-- [**Overleaf IEEE Template Gallery**](https://www.overleaf.com/gallery/tagged/ieee-official) — browse and open IEEE templates directly in the Overleaf editor
-- [**Overleaf LaTeX Tutorial**](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) — a 30-minute introduction to LaTeX basics if you're new to the system
+- [**IEEE Author Center**](https://ieeeauthorcenter.ieee.org/) - Official hub for templates, submission guidelines, and author tools
+
+- [**Overleaf IEEE Template Gallery**](https://www.overleaf.com/gallery/tagged/ieee-official) - Browse and open IEEE templates directly in the Overleaf editor
+
+- [**Overleaf LaTeX Tutorial**](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) - A 30-minute introduction to LaTeX basics if you're new to the system

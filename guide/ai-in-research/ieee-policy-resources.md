@@ -1,10 +1,10 @@
 ---
-title: IEEE AI Policy & U of I Resources
+title: IEEE AI Policy and U of I Resources
 parent: AI in Research
 nav_order: 3
 ---
 
-# IEEE AI Policy & U of I Resources
+# IEEE AI Policy and U of I Resources
 
 As AI tools become more common in academic and professional writing, the organizations that publish engineering research have started setting clear rules about how AI can and cannot be used.
 IEEE — the professional association whose citation format you're using for your paper — has published specific policies on AI-generated content.

@@ -1,10 +1,10 @@
 ---
-title: Navigating IEEE Xplore & Web of Science
+title: Navigating IEEE Xplore and Web of Science
 parent: Finding Scholarly Sources
 nav_order: 2
 ---
 
-# Navigating IEEE Xplore & Web of Science
+# Navigating IEEE Xplore and Web of Science
 
 Two databases will cover the vast majority of your source-finding needs for an ECE research paper: IEEE Xplore and Web of Science.
 Knowing how to search them effectively will save you hours compared to sifting through general Google results, and the sources you find will be the peer-reviewed, citable kind your instructor expects.
@@ -135,8 +135,8 @@ Both databases generate citation text that you can paste directly into your refe
 
 ## Further Resources
 
-- [**U of I Library Database Finder**](PROXY_URL_PLACEHOLDER) — Browse all databases available through the University of Idaho Library, including subject-specific options for engineering.
+- [**U of I Library Database Finder**](PROXY_URL_PLACEHOLDER) - Browse all databases available through the University of Idaho Library, including subject-specific options for engineering
 
-- [**IEEE Xplore Search Tips**](https://ieeexplore.ieee.org/Xplorehelp/searching-ieee-xplore/search-tips) — Official guidance from IEEE on advanced search operators and features.
+- [**IEEE Xplore Search Tips**](https://ieeexplore.ieee.org/Xplorehelp/searching-ieee-xplore/search-tips) - Official guidance from IEEE on advanced search operators and features
 
-- [**U of I Library Help**](https://www.lib.uidaho.edu/help/) — Contact a librarian for help with database access, search strategies, or interlibrary loan requests.
+- [**U of I Library Help**](https://www.lib.uidaho.edu/help/) - Contact a librarian for help with database access, search strategies, or interlibrary loan requests

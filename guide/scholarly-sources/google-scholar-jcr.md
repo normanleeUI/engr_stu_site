@@ -1,10 +1,10 @@
 ---
-title: Google Scholar & Verifying Journal Quality
+title: Google Scholar and Verifying Journal Quality
 parent: Finding Scholarly Sources
 nav_order: 3
 ---
 
-# Google Scholar & Verifying Journal Quality
+# Google Scholar and Verifying Journal Quality
 
 Finding a relevant article is only half the job — you also need to know whether the journal it appeared in is credible.
 Google Scholar is the fastest way to cast a wide net across scholarly literature, but it doesn't filter by quality the way IEEE Xplore or Web of Science does.
@@ -97,6 +97,8 @@ But they work best when combined with the other checks described above — looki
 
 ## Further Resources
 
-- [**Google Scholar**](https://scholar.google.com/) - Free search engine for scholarly literature across disciplines and publishers.
-- [**Journal Citation Reports (JCR)**](PROXY_URL_PLACEHOLDER) - Clarivate's journal evaluation tool; access through the U of I Library for full functionality.
-- [**U of I Library Help**](https://www.lib.uidaho.edu/help/) - Contact a librarian for help verifying journal quality or finding additional sources for your paper.
+- [**Google Scholar**](https://scholar.google.com/) - Free search engine for scholarly literature across disciplines and publishers
+
+- [**Journal Citation Reports (JCR)**](PROXY_URL_PLACEHOLDER) - Clarivate's journal evaluation tool; access through the U of I Library for full functionality
+
+- [**U of I Library Help**](https://www.lib.uidaho.edu/help/) - Contact a librarian for help verifying journal quality or finding additional sources for your paper

@@ -106,4 +106,4 @@ But if your Introduction is longer than your body, or your Conclusion introduces
 
 ## Further Resources
 
-- [**IEEE Author Center: Article Templates and Structure**](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-the-text-of-your-article/) — official guidance on structuring an IEEE article, including section-by-section expectations and formatting details
+- [**IEEE Author Center: Article Templates and Structure**](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-the-text-of-your-article/) - Official guidance on structuring an IEEE article, including section-by-section expectations and formatting details

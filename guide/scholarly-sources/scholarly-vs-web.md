@@ -126,8 +126,8 @@ When in doubt, ask your instructor or check with a [librarian at the University 
 
 ## Further Resources
 
-- [**IEEE Xplore Digital Library**](https://ieeexplore.ieee.org/) — The primary database for IEEE journals, conference papers, and standards
+- [**IEEE Xplore Digital Library**](https://ieeexplore.ieee.org/) - The primary database for IEEE journals, conference papers, and standards
 
-- [**Google Scholar**](https://scholar.google.com/) — A free search engine that indexes scholarly articles across publishers and disciplines
+- [**Google Scholar**](https://scholar.google.com/) - A free search engine that indexes scholarly articles across publishers and disciplines
 
-- [**U of I Library "Evaluate Sources" Guide**](https://libguides.uidaho.edu/c.php?g=363237&p=2453691) — Tips from the University of Idaho Library on assessing source quality
+- [**U of I Library "Evaluate Sources" Guide**](https://libguides.uidaho.edu/c.php?g=363237&p=2453691) - Tips from the University of Idaho Library on assessing source quality

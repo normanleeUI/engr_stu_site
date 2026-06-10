@@ -1,10 +1,10 @@
 ---
-title: AI Search Tools & Their Limitations
+title: AI Search Tools and Their Limitations
 parent: AI in Research
 nav_order: 1
 ---
 
-# AI Search Tools & Their Limitations
+# AI Search Tools and Their Limitations
 
 AI tools can feel like a shortcut to finding sources for your paper — type a question, get a list of references in seconds.
 But the sources AI gives you may not exist at all.

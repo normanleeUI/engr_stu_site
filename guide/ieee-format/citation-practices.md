@@ -108,5 +108,6 @@ Bookmark it and refer to it when you are assembling your reference list.
 
 ## Further Resources
 
-- [**IEEE Editorial Style Manual**](https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/) - official IEEE publication standards, including links to the Reference Guide, Mathematics Guide, and journal title abbreviations
-- [**IEEE Reference Preparation Assistant**](https://refassist.ieee.org/) - a free tool that helps you format individual references in correct IEEE style by filling in fields for each source type
+- [**IEEE Editorial Style Manual**](https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/) - Official IEEE publication standards, including links to the Reference Guide, Mathematics Guide, and journal title abbreviations
+
+- [**IEEE Reference Preparation Assistant**](https://refassist.ieee.org/) - A free tool that helps you format individual references in correct IEEE style by filling in fields for each source type
