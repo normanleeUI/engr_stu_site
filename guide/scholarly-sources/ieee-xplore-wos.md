@@ -6,36 +6,43 @@ nav_order: 2
 
 # Navigating IEEE Xplore and Web of Science
 
-Two databases will cover the vast majority of your source-finding needs for an ECE research paper: IEEE Xplore and Web of Science.
-Knowing how to search them effectively will save you hours compared to sifting through general Google results, and the sources you find will be the peer-reviewed, citable kind your instructor expects.
+Two databases will cover the vast majority of your source-finding needs for an ECE research paper: [IEEE Xplore](https://uidaho.idm.oclc.org/login?url=https://ieeexplore.ieee.org/) and [Web of Science](https://uidaho.idm.oclc.org/login?url=https://www.webofscience.com/wos/woscc/basic-search).
+
+Knowing how to search them effectively will save you hours compared to sifting through general Google results, because they:
+- Include mostly scholarly sources, meaning you don't have to manually filter out non-scholarly ones.
+- Allow you to easily eliminate pre-prints and other non-peer-reviewed sources from your search.
+- Show at-a-glance author affiliations, publication venues, and citation networks.
+
 This page walks you through accessing both databases, running targeted searches, and getting the full text of the articles you need.
 
 ## Why These Two Databases
 
-**IEEE Xplore** is the primary digital library for electrical and computer engineering research.
+**[IEEE Xplore](https://uidaho.idm.oclc.org/login?url=https://ieeexplore.ieee.org/)** is the primary digital library for electrical and computer engineering research.
 It indexes journals, conference proceedings, and technical standards published by IEEE (Institute of Electrical and Electronics Engineers) and its partner organizations.
-If your paper topic falls within ECE — signal processing, power systems, embedded computing, communications, or any related field — IEEE Xplore is the first place to look.
+*IEEE Xplore also includes some non-IEEE publications, but all IEEE journal [articles](https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/about-the-peer-review-process/) and [conference papers](https://conferences.ieeeauthorcenter.ieee.org/understand-peer-review/) are peer reviewed.*
 
-**Web of Science** is a broader, multidisciplinary research database that covers thousands of journals across science and engineering.
+**[Web of Science](https://uidaho.idm.oclc.org/login?url=https://www.webofscience.com/wos/woscc/basic-search)** is a broader, multidisciplinary research database that covers thousands of journals across science and engineering.
 It's especially useful when your topic crosses disciplinary boundaries (for example, a paper on biomedical sensors that draws on both ECE and biology research).
-Web of Science also provides citation tracking, letting you see which papers cite a given article — a powerful way to find newer, related work.
+*[Almost all journals in Web of Science are peer reviewed](https://supportcenter.clarivate.com/s/article/Web-of-Science-Core-Collection-Explanation-of-peer-reviewed-journals?language=en_US), but peer reviewed journals also published non-peer reviewed materials such as Editorials and Commentaries*
 
 Together, these two databases give you deep coverage of ECE-specific literature and broad reach across related fields.
 
 ## Accessing the Databases Through the U of I Library
 
 Both IEEE Xplore and Web of Science are subscription databases.
-The University of Idaho Library pays for access, which means you can search and download full-text articles at no cost — but you need to go through the library to do it.
+The University of Idaho Library pays for access, which means you can search and download full-text articles at no cost — but you need to go through the Library to do it.
 
 **On campus**, your access is automatic.
 When you're connected to the campus network (including campus Wi-Fi), the databases recognize your university affiliation and unlock full-text access without any extra steps.
 
-**Off campus**, you'll need to connect through the library's **proxy server**, which routes your connection through the university so the databases see you as an on-campus user.
-The simplest way to do this is to access the databases through the library's website rather than going directly to the database URL.
+**Off campus**, you'll need to connect through the library's **[website](https://libguides.uidaho.edu/az/databases)**, which routes your connection through the university so the databases see you as an on-campus user. You can also use the buttons below:
 
-{% include feature/button.html color="pride-gold" link="PROXY_URL_PLACEHOLDER" text="Access IEEE Xplore via U of I Library" %}
+<div class="text-center" markdown="1">
 
-{% include feature/button.html color="pride-gold" link="PROXY_URL_PLACEHOLDER" text="Access Web of Science via U of I Library" %}
+[Access IEEE Xplore via U of I Library](https://uidaho.idm.oclc.org/login?url=https://ieeexplore.ieee.org/){:.btn .btn-pride-gold .m-1}
+[Access Web of Science via U of I Library](https://uidaho.idm.oclc.org/login?url=https://www.webofscience.com/wos/woscc/basic-search){:.btn .btn-pride-gold .m-1}
+
+</div>
 
 {% include feature/alert.html color="blue" text="If you're off campus, always access these databases through the library links above. Going directly to ieee.org or webofscience.com will show you article metadata but block full-text downloads unless you log in through the proxy." %}
 
@@ -51,20 +58,19 @@ Type two or three key terms related to your topic rather than a full sentence.
 For example, if your paper is about energy harvesting for wireless sensors, try `energy harvesting wireless sensor` rather than "How do wireless sensors harvest energy?"
 
 2. **Use the filters panel.**
-After your initial search returns results, look at the filter options on the left side of the page.
+After your initial search returns results, look at the filter options above and to the left of your search results.
 The most useful filters are:
    - **Year** — Narrow to recent publications (e.g., the last five or ten years) to find current research.
-   - **Content Type** — Choose "Journals" for peer-reviewed articles or "Conferences" for conference papers, both of which are appropriate for your assignment.
+   - **Content Type** — Choose "Journals" for peer-reviewed articles or "Conferences" for conference papers.
    - **Publication Title** — If you know a specific journal is relevant (e.g., *IEEE Transactions on Power Electronics*), filter to that journal.
 
 3. **Refine your terms if needed.**
 If you get too many results, add a more specific term.
 If you get too few, try synonyms or broader terms.
-IEEE Xplore also supports Boolean operators: `AND`, `OR`, and `NOT` (in uppercase) let you combine or exclude terms.
 
-4. **Use the Advanced Search for precision.**
+4. **Use the Advanced Search if needed.**
 Click "Advanced Search" near the search bar to search within specific fields like title, abstract, or author.
-This is helpful when a common term (like "network" or "power") returns too many irrelevant results — searching for your term only in article titles narrows things down quickly.
+This is helpful when a common term (like "network" or "power") shows up once or twice in the fulltext of a piece, but isn't a main focus relevant to your topic. Searching for your term only in article titles and abstracts help make sure when your keywords are mentioned in a piece, they are a major focus of that piece.
 
 ## Searching Web of Science
 
@@ -77,12 +83,11 @@ Web of Science defaults to searching across topics (title, abstract, and keyword
 2. **Apply filters to narrow results.**
 After searching, use the filter panel on the left to refine by:
    - **Publication Year** — Focus on recent work relevant to your paper.
-   - **Document Type** — Select "Article" for journal papers or "Proceedings Paper" for conference papers.
+   - **Document Type** — Select "Article" for peer reviewed journal papers. 
    - **Research Area** — Choose "Engineering" or "Computer Science" to exclude unrelated disciplines.
    - **Open Access** — If you're having trouble accessing a specific article, filtering by open-access content can help.
 
 3. **Use the "Cited References" and "Citing Articles" features.**
-These are Web of Science's biggest strengths.
 When you find a useful article, click on it and look for the "Cited References" link (papers this article references) and the "Citing Articles" count (newer papers that cite this article).
 Following citations forward and backward is one of the most effective ways to build a thorough reference list for your paper.
 
@@ -96,24 +101,16 @@ Here's what to look at when scanning a results list:
 - **Publication name** — Is it a recognized journal or conference?
 Names like *IEEE Transactions on...* or *Proceedings of the IEEE* signal high-quality venues.
 - **Year** — Is the research recent enough to be relevant?
-For most ECE topics, work from the last ten years is a reasonable window, though seminal older papers are also valuable.
 - **Abstract** — Click through to read the abstract before downloading the full article.
+
 The abstract tells you the paper's main contribution in one paragraph, which helps you decide whether the full text is worth your time.
 
 ## Accessing Full Text
 
 When you find an article you want to read, look for a "PDF" or "Full Text" link on the article's page.
-If you accessed the database through the library proxy, the full text should be available immediately.
-
-If you see a paywall or a message asking you to purchase the article, it usually means your session isn't going through the proxy.
-Try these steps:
-
-1. Go back to the [U of I Library databases page](PROXY_URL_PLACEHOLDER) and re-access the database from there.
-2. Log in with your U of I credentials if prompted.
-3. Search for the article again — the full text should now be available.
-
+If you accessed the database through the library proxy, the is usually available immediately.
 If you still can't access an article after going through the proxy, the library may not have a subscription to that specific journal.
-In that case, you can request the article through the library's **Interlibrary Loan** service, which is free for U of I students.
+In that case, you can request the article through the library's **Interlibrary Loan** service, which is free for U of I students. Contact [Norman Lee, the Engineering Librarian](mailto:normanlee@uidaho.edu) if you have any trouble.
 
 ## Saving and Exporting Citations
 
@@ -123,20 +120,18 @@ In **IEEE Xplore**, you can:
 
 - Click the **"Cite This"** button on any article page to see the citation in IEEE format (and other formats).
 - Copy the citation text directly, or download it in a format compatible with reference managers like Zotero or Mendeley.
-- Use the **"Save to Project"** feature (requires a free IEEE Xplore account) to organize articles into folders for your paper.
 
 In **Web of Science**, you can:
 
 - Check the box next to articles in your results list and click **"Export"** to download citation data.
-- Choose formats like "Plain Text," "BibTeX," or "Other File Formats" depending on whether you're using a reference manager.
-- Click **"Save to Marked List"** to collect citations from across multiple searches during a session.
+- Choose formats like "Plain Text," "Excel," or other file formats depending on whether you're using [citation management software](https://libguides.uidaho.edu/citation-management)
 
-Both databases generate citation text that you can paste directly into your references section, but always double-check the formatting against IEEE citation style requirements — automated citations sometimes have minor errors in capitalization, abbreviations, or field order.
+Both databases generate citation text that you can paste directly into your references section, but always double-check the formatting against [IEEE citation style requirements](https://docs.google.com/document/d/e/2PACX-1vSBoV_hTIURPZKtQkxI6bAONJtjyDLxQIUvCHi-XPzD8NKLcxRfZrpvQLFrjWZ3M6FFR_Obau3R-t63/pub) — automated citations sometimes have minor errors in capitalization, abbreviations, or field order.
 
 ## Further Resources
 
-- [**U of I Library Database Finder**](PROXY_URL_PLACEHOLDER) - Browse all databases available through the University of Idaho Library, including subject-specific options for engineering
+- [**IEEE Xplore Search Tips**](https://ieeexplore.ieee.org/Xplorehelp/searching-ieee-xplore/search-tips) - Official guidance from IEEE on advanced search operators and features.
 
-- [**IEEE Xplore Search Tips**](https://ieeexplore.ieee.org/Xplorehelp/searching-ieee-xplore/search-tips) - Official guidance from IEEE on advanced search operators and features
+- [**Using Web of Science Guide**](https://webofscience.zendesk.com/hc/en-us/categories/29975435578641-Using-Web-of-Science) Official guidance from Web of Science on how to use the database.
 
-- [**U of I Library Help**](https://www.lib.uidaho.edu/help/) - Contact a librarian for help with database access, search strategies, or interlibrary loan requests
+- [**U of I Library Help**](https://www.lib.uidaho.edu/help/) - Contact a librarian for help with database access, search strategies, or interlibrary loan requests.
