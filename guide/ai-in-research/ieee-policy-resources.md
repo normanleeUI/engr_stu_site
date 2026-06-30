@@ -1,7 +1,7 @@
 ---
 title: IEEE AI Policy and U of I Resources
 parent: AI in Research
-nav_order: 3
+nav_order: 2
 ---
 
 # IEEE AI Policy and U of I Resources
