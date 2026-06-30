@@ -1,7 +1,7 @@
 ---
 title: IEEE Citation Practices
 parent: Writing in IEEE Format
-nav_order: 3
+nav_order: 2
 ---
 
 # IEEE Citation Practices

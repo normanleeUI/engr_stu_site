@@ -1,7 +1,7 @@
 ---
 title: Structuring Your Paper
 parent: Writing in IEEE Format
-nav_order: 2
+nav_order: 1
 ---
 
 # Structuring Your Paper
@@ -64,6 +64,12 @@ The References section lists every source you cited in the paper, numbered in th
 Many people find it helpful to write their literature review and introdution first so they clarify the goals and context for their paper up front.
 
 Conclusions, abstracts, and titles are usually decided on last. Since each is meant to summarize the content of the paper, it's easiest to write them when the rest of the paper's content has been finalized.
+
+# IEEE Templates and Tools
+
+The fastest way to get your two-page IEEE-format paper looking right is to start with an official template.
+IEEE provides free, pre-formatted templates that set up margins, column widths, font sizes, heading styles, and reference formatting for you — so you can focus on writing your content rather than wrestling with layout settings.
+This page helps you choose the right template and tool for your situation.
 
 ## Further Resources
 
