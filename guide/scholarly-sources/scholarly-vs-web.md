@@ -53,14 +53,14 @@ Here's what a scholarly source and a web source on that topic might look like:
 - **Structure:** Abstract, introduction, scholarly intervention, conclusion, reference list.
 - **How to find it:** Through [IEEE Xplore](https://uidaho.idm.oclc.org/login?url=https://ieeexplore.ieee.org/), a [U of I Library database](https://libguides.uidaho.edu/az/databases).
 
-This reviews the current state of research on machine vision for UAV's. Other articles might report original experiments, rather than reviewing existing ones.
+This reviews the current state of research on machine vision for UAVs. Other articles might report original experiments, rather than reviewing existing ones.
 
 ### News article on the same topic
 
 - **Title:** "[What Are Self-Driving Cars? The Technology Explained](https://www.forbes.com/sites/technology/article/self-driving-cars/)"
 - **Author:** A technology journalist (no listed credentials in sensor engineering)
 - **Published on:** A popular news website
-- **Structure:** A narrative overview, no abstract, methods, or results section. References mostly other news articles / web pages rather than peer reviewed research.
+- **Structure:** A narrative overview, no abstract, methods, or results section. It references mostly other news articles / web pages rather than peer-reviewed research.
 - **How to find it:** A Google search
 
 This article might give you a helpful overview, but it isn't as strongly vetted. Therefore, it isn't considered a credible source in an academic paper.

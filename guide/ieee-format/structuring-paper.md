@@ -31,7 +31,7 @@ The Introduction does three things in roughly this order:
 3. **Previews your contribution.**
    Briefly state what your paper does — whether it proposes a solution, surveys existing research, or explores a topic in depth.
 
-## Methdology
+## Methodology
 
 A detailed description of what you did in your research and how you did it. Aim to provide enough information that a reader could reproduce your work.
 
@@ -47,10 +47,10 @@ Interpret what your results actually mean and how they contribute to the researc
 
 The Conclusion usually serves three purposes:
 
-1. **Very Briefly Summarize your findings.**
+1. **Very briefly summarize your findings.**
    Restate the key results or arguments from the body, but do not simply repeat sentences from earlier sections.
 2. **State any broader implications.**
-   Similar to how the introduction starts broad and narrows down, the discussion starts with narrow contributions that the conclusion can broaden out to any additional implications for the research field as a whole, not just your particular problem within it.
+   The conclusion mirrors the introduction's structure in reverse: it starts from the paper's narrow contributions and broadens to implications for the research field as a whole, not just your particular problem within it.
 3. **Note limitations or future work.**
    Briefly acknowledge what your paper does not cover or what further research could address.
 
@@ -61,7 +61,7 @@ The References section lists every source you cited in the paper, numbered in th
 
 ## Important Tip: You Do Not Have To Write Your Paper In Order
 
-Many people find it helpful to write their literature review and introdution first so they clarify the goals and context for their paper up front.
+Many people find it helpful to write their literature review and introduction first so they clarify the goals and context for their paper up front.
 
 Conclusions, abstracts, and titles are usually decided on last. Since each is meant to summarize the content of the paper, it's easiest to write them when the rest of the paper's content has been finalized.
 

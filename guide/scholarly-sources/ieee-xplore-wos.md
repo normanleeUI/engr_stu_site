@@ -23,7 +23,7 @@ It indexes journals, conference proceedings, and technical standards published b
 
 **[Web of Science](https://uidaho.idm.oclc.org/login?url=https://www.webofscience.com/wos/woscc/basic-search)** is a broader, multidisciplinary research database that covers thousands of journals across science and engineering.
 It's especially useful when your topic crosses disciplinary boundaries (for example, a paper on biomedical sensors that draws on both ECE and biology research).
-*[Almost all journals in Web of Science are peer reviewed](https://supportcenter.clarivate.com/s/article/Web-of-Science-Core-Collection-Explanation-of-peer-reviewed-journals?language=en_US), but peer reviewed journals also published non-peer reviewed materials such as Editorials and Commentaries*
+*[Almost all journals in Web of Science are peer reviewed](https://supportcenter.clarivate.com/s/article/Web-of-Science-Core-Collection-Explanation-of-peer-reviewed-journals?language=en_US), but peer reviewed journals also publish non-peer reviewed materials such as Editorials and Commentaries*
 
 Together, these two databases give you deep coverage of ECE-specific literature and broad reach across related fields.
 
@@ -108,7 +108,7 @@ The abstract tells you the paper's main contribution in one paragraph, which hel
 ## Accessing Full Text
 
 When you find an article you want to read, look for a "PDF" or "Full Text" link on the article's page.
-If you accessed the database through the library proxy, the is usually available immediately.
+If you accessed the database through the library proxy, it is usually available immediately.
 If you still can't access an article after going through the proxy, the library may not have a subscription to that specific journal.
 In that case, you can request the article through the library's **Interlibrary Loan** service, which is free for U of I students. Contact [Norman Lee, the Engineering Librarian](mailto:normanlee@uidaho.edu) if you have any trouble.
 
@@ -132,6 +132,6 @@ Both databases generate citation text that you can paste directly into your refe
 
 - [**IEEE Xplore Search Tips**](https://ieeexplore.ieee.org/Xplorehelp/searching-ieee-xplore/search-tips) - Official guidance from IEEE on advanced search operators and features.
 
-- [**Using Web of Science Guide**](https://webofscience.zendesk.com/hc/en-us/categories/29975435578641-Using-Web-of-Science) Official guidance from Web of Science on how to use the database.
+- [**Using Web of Science Guide**](https://webofscience.zendesk.com/hc/en-us/categories/29975435578641-Using-Web-of-Science) - Official guidance from Web of Science on how to use the database.
 
 - [**U of I Library Help**](https://www.lib.uidaho.edu/help/) - Contact a librarian for help with database access, search strategies, or interlibrary loan requests.

@@ -7,16 +7,16 @@ nav_order: 1
 # AI Search Tools and Their Limitations
 
 AI tools can feel like a shortcut to finding sources for your paper — type a question, get a list of references in seconds.
-But the sources AI gives you may not exist or mat not be peer reviewed.
+But the sources AI gives you may not exist or may not be peer reviewed.
 Understanding how these tools actually work, and where they fail, is essential before you rely on AI tools.
 
 ## How Different AI Tools Find Information
 
 Not all AI tools search the same way, and the differences matter for the quality of the sources they return.
 
-**ChatGPT, Perplexiy AI, and similar tools** do not search academic databases when you ask it for references. It searches the web, similar to Google, and then tries to answer your question. Importantly, if it doesn't find an answer on the web, it often makes things up instead of telling you it failed. If it does find an answer, the sources many not be peer reviewed.
+**ChatGPT, Perplexity AI, and similar tools** do not search academic databases when you ask them for references. They search the web, similar to Google, and then try to answer your question. Importantly, if they don't find an answer on the web, they often make things up instead of telling you they failed. If they do find an answer, the sources may not be peer reviewed.
 
-**Semantic Scholar and Google Scholar Labs** are academic search engines that uses AI features to help you explore the research literature.
+**Semantic Scholar and Google Scholar Labs** are academic search engines that use AI features to help you explore the research literature.
 Unlike ChatGPT, they query actual databases of papers. However, similar to basic Google Scholar, not all of these will be peer reviewed.
 
 ## AI as a Discovery Tool vs. AI as a Citation Source

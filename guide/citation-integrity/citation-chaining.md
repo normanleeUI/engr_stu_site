@@ -47,7 +47,7 @@ This takes you to a list of every paper within Web of Science that has cited you
 [Google Scholar](https://scholar.google.com/) is freely available and covers the widest range of sources, including preprints, theses, and conference papers that may not appear in IEEE Xplore or Web of Science.
 
 **For backward chaining**, Google Scholar does not display a paper's full reference list directly.
-Instead, you have to click through to the paper itself (the PDF or publisher page) manually read the references section.
+Instead, you have to click through to the paper itself (the PDF or publisher page) and manually read the references section.
 
 **For forward chaining**, look for the **Cited by** link below any search result.
 Clicking it shows a list of papers that cite your starting paper.

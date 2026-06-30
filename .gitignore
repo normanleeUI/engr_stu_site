@@ -14,5 +14,6 @@ vendor/
 # temporarily ignore gemfile.lock
 Gemfile.lock
 
-# Prompt files (session-specific, not part of the project)
+# Claude (session-specific, not part of the project)
 prompts/
+.claude/

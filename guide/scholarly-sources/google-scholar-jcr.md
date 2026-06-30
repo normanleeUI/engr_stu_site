@@ -11,7 +11,7 @@ This page shows you how to set up Google Scholar for full-text access through th
 
 ## What Google Scholar Searches (and What It Doesn't)
 
-[Google Scholar](https://scholar.google.com/) results include articles, theses, conference papers, preprints, technical reports from publishers, university repositories, web sources.
+[Google Scholar](https://scholar.google.com/) results include articles, theses, conference papers, preprints, technical reports from publishers, university repositories, and web sources.
 Its biggest strength is **breadth**: a single search can surface results from IEEE, Springer, Elsevier, ACM, arXiv, and thousands of other sources at once.
 
 That breadth comes with trade-offs, though.
@@ -30,7 +30,7 @@ You can fix this by telling Google Scholar about your U of I Library affiliation
 5. Check the box next to **University of Idaho - U of Idaho - View it** when it appears in the results. Ignore the other U of I entries.
 6. Click **Save**.
 
-After saving, your Google Scholar results will include a "FindIt@UI" or "Full Text @ U of I" links on the right side of each result whenever the library has access.
+After saving, your Google Scholar results will include a "FindIt@UI" or "Full Text @ U of I" link on the right side of each result whenever the library has access.
 Clicking that link routes you through the library proxy so you can download the PDF at no cost.
 
 {% include feature/alert.html color="blue" text="Library link settings are stored in your browser's cookies. If you clear your cookies or switch browsers, you'll need to set this up again." %}
